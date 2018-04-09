@@ -13,10 +13,15 @@ body {
 	width:100%;
 	margin:auto;
 	background-image: url("http://i68.tinypic.com/pyum8.jpg");
+	background-size: auto;
+}
+
+html{
+	background-image: url("http://i68.tinypic.com/pyum8.jpg");
 }
 
 .content {
-  flex: 1 0 auto;
+  flex: 10 auto;
 }
 
 a{
